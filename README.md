@@ -1,7 +1,7 @@
-<p>Nome: Gustavo Lima <p>
-<p>Idade: 20 Anos <p>
-<p>Curso: Sistemas de Informação <p>
-<p>Faculdade: UFLA <p>
+<p>🧑 Nome: Gustavo Lima <p>
+<p>🎂 Idade: 20 Anos <p>
+<p>👨‍💻 Curso: Sistemas de Informação <p>
+<p>🎓 Faculdade: UFLA <p>
 
  <div>
   <a href="https://github.com/rafaballerini">
@@ -12,5 +12,8 @@
   <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+<div>
+  ![Snake animation](https://github.com/rafaballerini/GustavoRSL/blob/output/github-contribution-grid-snake.svg)
 </div>
 
