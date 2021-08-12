@@ -8,8 +8,8 @@
   <kbd>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GustavoRSL&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoRSL&layout=compact&langs_count=7&theme=radical"/>
+  <img alt="Kabayashi" height="150" widht="150" src="https://images-ext-1.discordapp.net/external/PZnfTFDEw0cZsSc8pInJy3b5Ga904M6E0gpQvi5XBK4/https/imgur.com/5ezEyyo.gif.gif">
   </kbd>
-  <img alt="Kabayashi" height="180" widht="180" src="https://images-ext-1.discordapp.net/external/PZnfTFDEw0cZsSc8pInJy3b5Ga904M6E0gpQvi5XBK4/https/imgur.com/5ezEyyo.gif.gif">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
