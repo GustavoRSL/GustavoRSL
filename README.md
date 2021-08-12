@@ -14,5 +14,5 @@
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 <div>
- ![Snake animation](https://github.com/gustavorsl/gustavorsl/blob/output/github-contribution-grid-snake.svg)
+ Oi!
 </div>
