@@ -2,7 +2,6 @@
 <p>🎂 Idade: 20 Anos <p>
 <p>👨‍💻 Curso: Sistemas de Informação <p>
 <p>🎓 Faculdade: UFLA <p>
-<kbd>
 <div><br>
   <a href="https://github.com/GustavoRSL">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoRSL&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
