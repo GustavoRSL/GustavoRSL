@@ -1,5 +1,5 @@
 <p>🧑 Nome: Gustavo Lima <p>
-<p>🎂 Idade: 21 Anos <p>
+<p>🎂 Idade: 22 Anos <p>
 <p>👨‍💻 Curso: Sistemas de Informação <p>
 <p>🎓 Faculdade: UFLA <p>
   <hr>
