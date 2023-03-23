@@ -6,17 +6,21 @@
 <div><br>
   <a href="https://github.com/GustavoRSL">
   <kbd>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=GustavoRSL&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoRSL&layout=compact&langs_count=7&theme=radical"/>
-  <img alt="Kobayashi" height="150em" src="https://images-ext-1.discordapp.net/external/PZnfTFDEw0cZsSc8pInJy3b5Ga904M6E0gpQvi5XBK4/https/imgur.com/5ezEyyo.gif.gif">
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=GustavoRSL&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoRSL&layout=compact&langs_count=7&theme=radical"/>
   </kbd>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <p align="center">
+    <img height="250em"
+  src="https://gist.githubusercontent.com/GustavoRSL/665bc01b73401718d33431b2c51bac69/raw/d8d2dbf27341934e2cc4895fa0a8a4f053e9e8e6/gif_perfil.gif"/>
+    <br>
+  <img align="center" alt="Angular" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="C++" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="HTML5" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <p/>
 </div>
   <hr>
 <div style="display: inline-block> 
